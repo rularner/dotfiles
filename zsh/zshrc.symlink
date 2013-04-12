@@ -32,7 +32,7 @@ ZSH_THEME="pygmalion"
 # Which plugins would you like to load? (plugins can be found in ~/.oh-my-zsh/plugins/*)
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
-plugins=(git svn autojump cake colored-man command-not-found compleat cp debian dircycle fbterm git-extras jira last-working-dir lol per-directory-history perl redis-cli screen ssh-agent taskwarrior vi-mode)
+plugins=(git svn autojump cake colored-man command-not-found compleat cp debian dircycle fbterm git-extras jira last-working-dir lol per-directory-history perl redis-cli screen taskwarrior vi-mode)
 
 source $ZSH/oh-my-zsh.sh
 
